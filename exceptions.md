@@ -26,6 +26,6 @@ Generally speaking, until an IAA is signed, the project has not formally begun, 
 
 At times, there may be small cases where a project needs to start in a private environment and later become public. This could be work that a team member needs to share with another team member to ensure the code does not include security vulnerabilities, clear through agency processes, or "whiteboard" out an idea that they want to propose in a small group. In these cases, 18F has a blanket exemption allowing private repositories to exist for no more than 10 business days before being made public or deleted. Repositories that are kept private beyond this time will need a formal exemption documented and made available.
 
-**Pre-Release Content**
+**Content Holds**
 
 At times, we may undertake projects subject to confidentiality agreements, embargos, or other holds on disclosure. Content related to the disclosure may be private until a specified time arranged at the beginning of the work. Content not directly in support of the disclosure is not subject to this exemption.
