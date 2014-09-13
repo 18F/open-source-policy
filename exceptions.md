@@ -28,4 +28,4 @@ At times, there may be small cases where a project needs to start in a private e
 
 **Pre-Release Content**
 
-At times, we may undertake projects with a specific and short term public announcement in mind. Content related to the announcement may be private until the time of the announcement. Content not directly in support of the announcement is not subject to this exemption.
+At times, we may undertake projects subject to confidentiality agreements, embargos, or other holds on disclosure. Content related to the disclosure may be private until a specified time arranged at the beginning of the work. Content not directly in support of the disclosure is not subject to this exemption.
