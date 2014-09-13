@@ -26,5 +26,6 @@ Generally speaking, until an IAA is signed, the project has not formally begun, 
 
 At times, there may be small cases where a project needs to start in a private environment and later become public. This could be work that a team member needs to share with another team member to ensure the code does not include security vulnerabilities, clear through agency processes, or "whiteboard" out an idea that they want to propose in a small group. In these cases, 18F has a blanket exemption allowing private repositories to exist for no more than 10 business days before being made public or deleted. Repositories that are kept private beyond this time will need a formal exemption documented and made available.
 
-**Press Embargo**
-At times, we may undertake projects with a high-level press embargo with a specific and short term public launch date in mind. Keeping the components of these projects relevant to the embargo private may need to happen until the public launch date. Upon the public announcement of the project, all corresponding code will be released.
+**Pre-Release Content**
+
+At times, we may undertake projects with a specific and short term public announcement in mind. Content related to the announcement may be private until the time of the announcement. Content not directly in support of the announcement is not subject to this exemption.
