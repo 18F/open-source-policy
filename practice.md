@@ -29,7 +29,7 @@ As [the Free Software Foundation says](https://www.gnu.org/licenses/gpl-faq.html
 
 #### How to license 18F repos
 
-When you create a repo, add a [LICENSE.md](LICENSE.md) and [CONTRIBUTING.md](CONTRIBUTING.md) file, and add a [paragraph to the end of your README](README.md#public-domain).
+When you create a repo, add a [LICENSE.md](LICENSE.md) and [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 The preceding links are to our standard boilerplate for each of those, so you can just copy and paste them. In some cases, you may need to customize them for your use -- for example, if you've forked a project that originated from outside the government.
 
@@ -46,9 +46,6 @@ You can then initialize a new 18F repository's license information with:
 ```bash
 18f-init
 ```
-
-It's also recommended to copy and paste [this paragraph for the end of your README](https://github.com/18F/open-source-policy/blob/master/README.md#public-domain) that sums up what's going on.
-
 
 ### Working in public
 
