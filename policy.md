@@ -56,6 +56,10 @@ There is a misconception that FOSS that is distributed to the public should not 
 
 In addition, while open source licenses permit the user to modify FOSS for internal use without obligating them to distribute source code to the public, when the user chooses to distribute the modified FOSS outside the user's organization, then the code is subject to whatever license it carries.
 
+## Sensitive Information
+
+Passwords, API tokens, SSH keys, protected configurations (like IP addresses), PII or any other "sensitive" information shall not be committed to a public repository. The publication of any of these items to a public source will be considered a security incident.
+
 ## Exceptions
 
 The only conditions where code shall not be developed and released in the open are:
