@@ -1,0 +1,12 @@
+name: 'GSA Open Source Implementation Guidance - Alpha'
+description: 'Placeholder for GSA IT workgroup to develop open source code release guidance'
+license: null
+openSourceProject: 1
+governmentWideReuseProject: 1
+tags:
+    - open-source
+    - opensource
+    - cto
+    - gsa-digital-service
+contact:
+    email: cto@gsa.gov
